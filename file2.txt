@@ -1,1 +1,1 @@
-this is file2 content
+ “This is the bug fix in development branch”
